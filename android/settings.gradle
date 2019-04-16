@@ -1,0 +1,3 @@
+rootProject.name = 'prevn_2321'
+
+include ':app'
